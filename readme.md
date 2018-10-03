@@ -1,7 +1,6 @@
-#Installation
+# Installation
 
-####composer install
-####php artisan migrate
-
-####npm install
-####npm run
+composer install
+php artisan migrate
+npm install
+npm run
