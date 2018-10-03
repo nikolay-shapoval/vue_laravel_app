@@ -1,6 +1,6 @@
 # Installation
 
-composer install
-php artisan migrate
-npm install
+composer install<br>
+php artisan migrate<br>
+npm install<br>
 npm run
